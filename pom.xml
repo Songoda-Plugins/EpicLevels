@@ -3,7 +3,7 @@
 
     <groupId>com.songoda</groupId>
     <artifactId>EpicLevels-Plugin</artifactId>
-    <version>3.9.0</version>
+    <version>3.10.0</version>
 
     <name>EpicLevels</name>
     <description>Allow your players to gain experience and level up by fighting players and monsters.</description>
