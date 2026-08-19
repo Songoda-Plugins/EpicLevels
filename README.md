@@ -1,10 +1,23 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <div align="center">
 <img src="docs/Logo.png" width="128px">
+</div>
 
 # EpicLevels
-**Implement a new way to reward, test, and challenge your most dedicated players with a creative leveling and rewards system.**
 
+> **[Official EpicLevels website][Plugin page]**
+>
+> For the latest downloads, supported Minecraft versions, documentation,
+> installation instructions, compatibility information, updates, and support,
+> visit the Songoda Reborn page above.
+
+EpicLevels is a Minecraft player-progression server plugin developed and maintained by
+**Songoda Reborn**.
+
+It provides configurable levels, challenges, and rewards for tracking and recognizing
+player activity and progression.
+
+<div align="center">
 
 [![Discord][Discord shield]][Discord invite]
 <br>
@@ -13,27 +26,23 @@
 </div>
 
 
-## Download (Marketplace)
-You can visit [our marketplace][Plugin page] to download EpicLevels as well as take a
-look at many other fantastic plugins which are sure to catch your eye.
+## Downloads
+Downloads and supported Minecraft versions are available from the
+[Songoda Reborn plugin page][Plugin page].
 
 ## Documentation
-You can find all the information about EpicLevels, including dependencies, commands, permissions and incompatible
-plugins on [our wiki][Plugin wiki].
-
-Feel free to also contribute to the wiki as a way to help others in the community with using the plugin.
+The [EpicLevels wiki][Plugin wiki] is maintained by Songoda Reborn and covers
+installation, configuration, commands, permissions, dependencies, and compatibility.
 
 ## Support
-If you encounter any issues while using the plugin, feel free to contact us on
-[our Discord server][Discord invite].
+For help with EpicLevels, join our [Discord server][Discord invite].
 
 ## Suggestions
-For suggestions about features you think should be added to the plugin to increase its functionality, feel free to
-create a thread over on [our Discord server][Discord invite].
+Share feature suggestions and feedback through our [Discord server][Discord invite].
 
 
-[Plugin page]: https://songoda.com/product/9
-[Plugin wiki]: https://wiki.songoda.com/EpicLevels-1130f10897028120ba0cf7ad33b047f1
+[Plugin page]: https://songoda-reborn.com/plugins/epiclevels
+[Plugin wiki]: https://songoda-reborn.com/plugins/epiclevels/wiki
 [Discord invite]: https://discord.gg/vtuJUfebrd
 
 [Discord shield]: https://img.shields.io/discord/1214289374506917889?color=5865F2&label=Discord&logo=discord&logoColor=5865F2
